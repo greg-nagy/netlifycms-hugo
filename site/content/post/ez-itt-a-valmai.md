@@ -13,6 +13,8 @@ bla bla Marcellnak lesz majd okossag es itt alakulni fog a csuda dolog
 1. hu 
 2. huhu
 
-# h1 title, mert azt pont itt kell 
+# h1 title, mert azt pont itt kell
 
 ## h2 hutyutyu
+
+na akkor ide csin'ljunk meg valami tartalmat
